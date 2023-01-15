@@ -41,7 +41,7 @@ Navigate to html file and add the following code to it:
 ```html
 <div id="canvas"></div>
 <!--This div is very important it will be a container for our canvas -->
-<script src="https://unpkg.com/2d-gam/@1.12.3/dist/2d-Gam.min.js"></script>
+<script src="https://unpkg.com/2d_gam/@1.12.3/dist/2d-Gam.min.js"></script>
 </body>
 ```
 
