@@ -30,7 +30,6 @@ then you will find it in `window.gam`
   <li><a href="#eve">Events</a></li>
   <li><a href="#det">Detections</a></li>
   <li><a href="#ani">Movements</a></li>
-  <li><a href="#img">Images</a></li>
   <li><a href="#tex">Texts</a></li>
 </ul>
 
