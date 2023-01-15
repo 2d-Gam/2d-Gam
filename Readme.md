@@ -15,7 +15,7 @@ see also: [2d-Reactgam](https://npmjs.com/package/2d-Reactgam) [status: under de
 
 - Unpkg
 ```html
-  <script src="https://unpkg.com/2d-gam/@1.12.3/dist/2d-gam.min.js"></script>
+  <script src="https://unpkg.com/2d_gam/@1.12.3/dist/2d-gam.min.js"></script>
 ```
 then you will find it in `window.gam`
 
