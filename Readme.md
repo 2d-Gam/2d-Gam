@@ -2,7 +2,7 @@
 
 2d-Gam is a library for Es6 to develop 2d games  🤘🤠.
 
-see also: [2d-Reactgam](https://npmjs.com/package/2d-Reactgam) [status: under development]
+see also: [2d-Reactgam](https://npmjs.com/package/2d_reactgam)
 
 ## Installition.
 
